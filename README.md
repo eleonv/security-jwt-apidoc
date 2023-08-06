@@ -61,7 +61,7 @@ JWT tiene la siguiente forma: xxxxx.yyyyy.zzzzz
 El siguiente diagrama muestra el funcionamiento de los tokens web JSON:
 ![Funcionamiento JWT](https://github.com/eleonv/security-jwt-back/blob/main/raw/do-jwt.png)
 
-## Instalaci{on Swagger
+## Instalación Swagger
 Para spring boot 3, instalar la librería 
 
 ```pom
